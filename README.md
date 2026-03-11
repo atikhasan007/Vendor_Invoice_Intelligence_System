@@ -142,5 +142,6 @@ streamlit run app.py
 
 ---
 Author & Contact
+```
 Md Atik Hasan
-
+```
