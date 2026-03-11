@@ -121,5 +121,26 @@ A **Streamlit application** demonstrates the complete workflow:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/inventory-invoice-analytics.git
-cd inventory-invoice-analytics
+git clone https://github.com/atikhasan007/Vendor_Invoice_Intelligence_System.git
+```
+### 2. Train and Save Best Fit Models:
+```bash
+python freight_cost_prediction/train.py
+python invoice_flagging/train.py
+```
+
+### 3. Test Models:
+```bash
+python prdict_freight.py
+python predict_invoice_flag.py
+```
+
+### 4. Open Application:
+```bash
+streamlit run app.py
+```
+
+---
+Author & Contact
+Md Atik Hasan
+
