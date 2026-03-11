@@ -46,6 +46,7 @@ Identify invoices with abnormal patterns in cost, freight, or delivery that may 
 - Prioritizes human intervention where it adds the most value.  
 
 ---
+<img width="932" height="833" alt="image" src="https://github.com/user-attachments/assets/d9b6464c-f8ac-46c4-a672-bca8f252c975" />
 
 ## Data Sources
 Data is stored in a **SQLite database (`inventory.db`)** with the following tables:  
