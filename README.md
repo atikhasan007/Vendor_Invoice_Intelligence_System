@@ -140,11 +140,11 @@ python predict_invoice_flag.py
 streamlit run app.py
 ```
 ### model features
- purchase quantity
- invoice value
- freight cost
- vendor behavior
- inventory data
+ - purchase quantity
+ - invoice value
+ - freight cost
+ - vendor behavior
+ - inventory data
 ---
 Author & Contact
 ```
