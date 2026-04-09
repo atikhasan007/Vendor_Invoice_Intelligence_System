@@ -139,7 +139,12 @@ python predict_invoice_flag.py
 ```bash
 streamlit run app.py
 ```
-
+### model features
+ purchase quantity
+ invoice value
+ freight cost
+ vendor behavior
+ inventory data
 ---
 Author & Contact
 ```
